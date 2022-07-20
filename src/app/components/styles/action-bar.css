@@ -1,0 +1,13 @@
+.action-bar {
+  height: 80px;
+  background-color: #282a35;
+}
+
+.search-bar {
+  margin: 20px;
+  height: 30px;
+}
+
+.sort-by {
+  height: 35px;
+}
